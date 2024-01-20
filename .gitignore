@@ -1,2 +1,8 @@
 # ignore node modules folder
 node_modules
+
+# ignore dist folder
+dist
+
+# ignore .parcel-cache folder
+.parcel-cache
