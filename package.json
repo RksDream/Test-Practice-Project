@@ -1,0 +1,24 @@
+{
+  "name": "test-practice-project",
+  "version": "1.0.0",
+  "description": "This is mock test practice site Developed by Rahul Kumar",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/RksDream/Test-Practice-Project.git)"
+  },
+  "keywords": [
+    "react",
+    "test-practice-project",
+    "mock-test-project",
+    "react-practice"
+  ],
+  "author": "Rahul Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
